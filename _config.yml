@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: David Leon|Personal
 description: Notes and code samples
-
-title:index
-url:index.md
+- name: index
+  dropdown: false
+  href: index.md
