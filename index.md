@@ -7,3 +7,7 @@
 
 - [Github flow](https://githubflow.github.io/)
 - [GitLab flow](https://about.gitlab.com/blog/2014/09/29/gitlab-flow/)
+
+## Software features management
+
+- [Team Foundation Server (TFS)](https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/define-features-epics?view=azure-devops&tabs=agile-process)
