@@ -7,3 +7,7 @@
 
 - [Github flow](https://githubflow.github.io/)
 - [GitLab flow](https://about.gitlab.com/blog/2014/09/29/gitlab-flow/)
+
+## Python
+
+- [Plotting with python](https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step)
