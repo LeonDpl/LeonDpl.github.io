@@ -8,6 +8,6 @@
 - [Github flow](https://githubflow.github.io/)
 - [GitLab flow](https://about.gitlab.com/blog/2014/09/29/gitlab-flow/)
 
-## Python
+## Software features management
 
-- [Plotting with python](https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step)
+- [Team Foundation Server (TFS)](https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/define-features-epics?view=azure-devops&tabs=agile-process)
