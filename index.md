@@ -11,3 +11,7 @@
 ## Python
 
 - [Plotting with python](https://www.kaggle.com/python10pm/plotting-with-python-learn-80-plots-step-by-step)
+
+## Industrie 4.0
+
+- [Webinaire ERM](https://www.youtube.com/watch?v=pUn-jiVaLvA)
