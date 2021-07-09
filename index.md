@@ -15,3 +15,8 @@
 ## Ideas
 
 - [Monitoring livebox4](https://www.nas-forum.com/forum/topic/69631-tuto-monitoring-de-la-livebox4/)
+
+## Predictive maintenance
+
+- [Prescriptive maintenance IBM](https://dms-maintenance-moteur.com/iiot-maintenance/internet-industriel-des-objets-iiot-quel-avenir-pour-la-maintenance-predictive-2/)
+- [Prescriptive maintenance FeuVert](https://www.feuvert-entreprises.fr/parutions/maintenance-predictive-prescriptive-difference/)
