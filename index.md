@@ -20,3 +20,7 @@
 
 - [Prescriptive maintenance IBM](https://dms-maintenance-moteur.com/iiot-maintenance/internet-industriel-des-objets-iiot-quel-avenir-pour-la-maintenance-predictive-2/)
 - [Prescriptive maintenance FeuVert](https://www.feuvert-entreprises.fr/parutions/maintenance-predictive-prescriptive-difference/)
+
+## Tutos
+
+- [InfluxDB on raspberry](https://pimylifeup.com/raspberry-pi-influxdb/)
